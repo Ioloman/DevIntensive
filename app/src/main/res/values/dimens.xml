@@ -5,22 +5,22 @@
 
     <!--Sizes-->
     <dimen name="size_small_24">24dp</dimen>
-    <dimen name="size_normal_40">40dp</dimen>
     <dimen name="size_medium_56">56dp</dimen>
-    <dimen name="size_medium_plus_64">64dp</dimen>
     <dimen name="size_large_72">72dp</dimen>
-    <dimen name="size_larger_80">80dp</dimen>
+    <dimen name="size_larger_96">96dp</dimen>
 
     <!-- Spaces -->
     <dimen name="spacing_small_8">8dp</dimen>
     <dimen name="spacing_normal_16">16dp</dimen>
     <dimen name="spacing_medial_24">24dp</dimen>
     <dimen name="spacing_medium_32">32dp</dimen>
-    <dimen name="spacing_medium_plus_56">56dp</dimen>
-    <dimen name="spacing_large_minus_64">64dp</dimen>
-    <dimen name="spacing_large_minus_72">72dp</dimen>
-    <dimen name="spacing_large_80">80dp</dimen>
-    <dimen name="spacing_large_plus_88">88dp</dimen>
-    <dimen name="spacing_larger_96">96dp</dimen>
-    <dimen name="spacing_the_largest_104">104dp</dimen>
+    <dimen name="spacing_large_56">56dp</dimen>
+    <dimen name="spacing_larger_72">72dp</dimen>
+    <dimen name="spacing_the_largest_96">96dp</dimen>
+
+    <!-- Font sizes -->
+    <dimen name="font_small_12">12sp</dimen>
+    <dimen name="font_normal_15">15sp</dimen>
+    <dimen name="font_medium_18">18sp</dimen>
+    <dimen name="font_large_22">22sp</dimen>
 </resources>
